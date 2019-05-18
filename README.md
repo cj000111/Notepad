@@ -7,15 +7,18 @@
 ![2](https://github.com/cj000111/Notepad/blob/master/picture/2.png)<br>
 
 更换背景颜色<br>
-![3](https://github.com/cj000111/Notepad/blob/master/picture/3.png)<br>
+![3](https://github.com/cj000111/Notepad/blob/master/picture/3.jng)<br>
 
-更换字体颜色<br>
+删除<br>
 ![4](https://github.com/cj000111/Notepad/blob/master/picture/4.png)<br>
 
-更换字体大小<br>
+更换字体颜色<br>
 ![5](https://github.com/cj000111/Notepad/blob/master/picture/5.png)<br>
 
-复制粘贴<br>
+更换字体大小<br>
 ![6](https://github.com/cj000111/Notepad/blob/master/picture/6.png)<br>
+
+复制粘贴<br>
+![7](https://github.com/cj000111/Notepad/blob/master/picture/7.png)<br>
 
 
