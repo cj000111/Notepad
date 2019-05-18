@@ -1,18 +1,18 @@
 ﻿# 基于NotePad应用的功能扩展
 ---
 ## 原应用展示
-图1：NotePad主界面<br>
-![NotePadMain](https://raw.githubusercontent.com/douerza/picture/master/NotePadPic/NotePadMain.png)<br>
-图2：新建笔记<br>
-![NewNoteEdit](https://raw.githubusercontent.com/douerza/picture/master/NotePadPic/NewNoteEdit.png)<br>
-图3：新建笔记退回主页面<br>
-![NewNoteList](https://raw.githubusercontent.com/douerza/picture/master/NotePadPic/NewNoteList.png)<br>
-图4：进入笔记，编辑标题菜单<br>
-![EditTitle](https://raw.githubusercontent.com/douerza/picture/master/NotePadPic/EditTitle.png)<br>
-图5：编辑标题<br>
-![EditTitleDialog](https://raw.githubusercontent.com/douerza/picture/master/NotePadPic/EditTileDialog.png)<br>
-图6：笔记列表<br>
-![moreNotes](https://raw.githubusercontent.com/douerza/picture/master/NotePadPic/moreNotes.png)<br>
-图7：长点“第二条笔记”，菜单<br>
-![menu](https://raw.githubusercontent.com/douerza/picture/master/NotePadPic/menu.png)<br>
+
+新建笔记<br>
+![1](https://github.com/cj000111/Notepad/blob/master/picture/1.png)<br>
+按创建时间和最近打开排序
+![2](https://github.com/cj000111/Notepad/blob/master/picture/2.png)<br>
+更换背景颜色<br>
+![3](https://raw.githubusercontent.com/douerza/picture/master/NotePadPic/3.png)<br>
+更换字体颜色<br>
+![4](https://raw.githubusercontent.com/douerza/picture/master/NotePadPic/4.png)<br>
+更换字体大小<br>
+![5](https://raw.githubusercontent.com/douerza/picture/master/NotePadPic/5.png)<br>
+复制粘贴<br>
+![6](https://raw.githubusercontent.com/douerza/picture/master/NotePadPic/6.png)<br>
+
 
